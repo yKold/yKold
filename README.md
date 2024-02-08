@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yKold
 - 👀 I’m interested in becoming a good developer!
-- 🌱 I’m currently learning Python, HTML/CSS, Javascript and school grades.
+- 🌱 I’m currently learning C# and React.js
 - 💞️ I’m looking to collaborate on the future technology.
 - 📫 How to reach me? You can contact me here or on my social medias as @gabriel_ykold .
 
