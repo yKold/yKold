@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yKold
 - 👀 I’m interested in becoming a good developer!
-- 🌱 I’m currently learning C# and React.js
+- 🌱 I’m currently learning ASP.NET CORE and Java
 - 💞️ I’m looking to collaborate on the future technology.
-- 📫 How to reach me? You can contact me here or on my social medias as @gabriel_ykold .
+- 📫 How to reach me? Links bellow.
 
 ![yKold's Stats](https://github-readme-stats.vercel.app/api?username=yKold&theme=dracula&show_icons=true&hide_border=true&count_private=false)
 ![yKold's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yKold&theme=dracula&show_icons=true&hide_border=true&layout=compact)
