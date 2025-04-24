@@ -18,7 +18,7 @@ When I'm not coding, I'm probably sketching, skating, or geeking out over AI and
 
 ### 🌍 Where to Find Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabriel-ykold/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielvitorsantos/)
 
 ---
 
