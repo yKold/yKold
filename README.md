@@ -1,6 +1,7 @@
 <!-- Typing SVG -->
 ### 👨‍💻 About Me
 
+<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="50"/>  
 Hi there! I'm **Gabriel**, a backend-focused developer currently diving deep into **ASP.NET Core** and **Java**.  
 I love building clean, scalable code and exploring new technologies.  
 When I'm not coding, I'm probably sketching, skating, or geeking out over AI and dev tools.
