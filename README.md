@@ -12,14 +12,6 @@ I'm also involved in cybersecurity research, studying adversarial attacks and sy
 
 ---
 
-### 📈 GitHub Stats
-
-![yKold's Stats](https://github-readme-stats.vercel.app/api?username=yKold&theme=dracula&show_icons=true&hide_border=true&count_private=false)
-
-![yKold's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yKold&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-
----
-
 ### 🌍 Where to Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabrielvitorsantos/)
