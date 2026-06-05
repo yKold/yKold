@@ -1,18 +1,21 @@
-<!-- Typing SVG -->
 ### 👨‍💻 About Me
 
-<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="50"/>  
-Hi there! I'm Gabriel, a backend-focused developer currently diving deep into **ASP.NET Core** and **Java**.  
-I love building clean, scalable code and exploring new technologies.  
-When I'm not coding, I'm probably learning a new language, 3D modeling, or learning about a new culture.
+<img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil Flag" width="50"/>
 
-🚀 Always up for learning and collaborating on cool projects!
+Hi there! I'm Gabriel, a Computer Science student at UFV and a software developer passionate about backend engineering and scalable systems.
+
+My main stack is **Java + Spring Boot** on the backend and **React** on the frontend, with experience building REST APIs, JWT authentication systems, database integration, and full-stack web applications.
+
+I'm also involved in cybersecurity research, studying adversarial attacks and system robustness, while continuously improving my software engineering and distributed systems knowledge.
+
+🚀 Always learning, building, and looking for opportunities to collaborate on meaningful projects!
 
 ---
 
 ### 📈 GitHub Stats
 
-![yKold's Stats](https://github-readme-stats.vercel.app/api?username=yKold&theme=dracula&show_icons=true&hide_border=true&count_private=false)  
+![yKold's Stats](https://github-readme-stats.vercel.app/api?username=yKold&theme=dracula&show_icons=true&hide_border=true&count_private=false)
+
 ![yKold's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yKold&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ---
@@ -25,14 +28,25 @@ When I'm not coding, I'm probably learning a new language, 3D modeling, or learn
 
 ### 💻 Tech Stack
 
-#### 🛠 Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+#### ☕ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 #### 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### 🗄 Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### ⚙️ Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### 📚 Interests
+🛡️ Cybersecurity • 🏗️ Software Engineering • ☁️ Distributed Systems • 🔍 Backend Development
 
 ---
 
